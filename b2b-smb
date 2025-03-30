@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>B2B SMB 리드 생성과 육성 영업·마케팅 혁신 전략</title>
+<script src="https://cdn.tailwindcss.com/3.4.16"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.min.css" rel="stylesheet">
+<script>
+tailwind.config = {
+theme: {
+extend: {
+colors: {
+primary: '#2563eb',
+secondary: '#1e40af'
+},
+borderRadius: {
+'none': '0px',
+'sm': '4px',
+DEFAULT: '8px',
+'md': '12px',
+'lg': '16px',
+'xl': '20px',
+'2xl': '24px',
+'3xl': '32px',
+'full': '9999px',
+'button': '8px'
+}
+}
+}
+}
+</script>
+<style>
+:where([class^="ri-"])::before { content: "\f3c2"; }
+.form-container {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+max-width: 100%;
+}
+.form-container iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+border: 0;
+}
+</style>
+</head>
+<body class="bg-gray-50">
+<div class="w-full">
+<img src="https://static.readdy.ai/image/c6915cb513097bd37a3121e47a3fa61c/c951dfecece0b7d5467891d5fe451424.png" alt="B2B SMB 리드 생성과 육성 웨비나" class="w-full object-cover">
+</div>
+<header class="bg-white shadow-sm">
+<div class="container mx-auto px-4 py-6">
+<h1 class="text-3xl font-bold text-gray-900">WEBINAR</h1>
+<h2 class="text-4xl font-bold text-primary mt-4">B2B SMB 리드 생성과 육성<br>영업·마케팅 혁신 전략</h2>
+<div class="mt-8 space-y-4">
+<div class="flex items-center gap-4">
+<div class="w-6 h-6 flex items-center justify-center">
+<i class="ri-time-line text-primary"></i>
+</div>
+<span class="text-lg">2025년 3월 31일 (월) 15:00 PM</span>
+</div>
+<div class="flex items-center gap-4">
+<div class="w-6 h-6 flex items-center justify-center">
+<i class="ri-user-line text-primary"></i>
+</div>
+<span class="text-lg">무료 웨비나 50명 선착순 마감</span>
+</div>
+</div>
+</div>
+</header>
+<main class="container mx-auto px-4 py-12">
+<section class="mb-16">
+<h3 class="text-2xl font-bold mb-8">웨비나 콘텐츠</h3>
+<div class="grid md:grid-cols-2 gap-6">
+<div class="bg-white p-6 rounded-lg shadow-sm">
+<div class="w-8 h-8 flex items-center justify-center bg-primary/10 rounded-full mb-4">
+<i class="ri-lightbulb-line text-primary"></i>
+</div>
+<h4 class="text-lg font-semibold mb-2">B2B SMB가 놓치고 있는 기회는 무엇인가?</h4>
+<p class="text-gray-600">디지털 시대의 새로운 기회와 도전에 대해 알아봅니다.</p>
+</div>
+<div class="bg-white p-6 rounded-lg shadow-sm">
+<div class="w-8 h-8 flex items-center justify-center bg-primary/10 rounded-full mb-4">
+<i class="ri-focus-3-line text-primary"></i>
+</div>
+<h4 class="text-lg font-semibold mb-2">리드 생성의 함정 : 숫자가 아닌 '가치'</h4>
+<p class="text-gray-600">효과적인 리드 생성 전략과 실제 사례를 공유합니다.</p>
+</div>
+<div class="bg-white p-6 rounded-lg shadow-sm">
+<div class="w-8 h-8 flex items-center justify-center bg-primary/10 rounded-full mb-4">
+<i class="ri-team-line text-primary"></i>
+</div>
+<h4 class="text-lg font-semibold mb-2">마케팅과 영업의 단절 : 통합되지 않으면 실패</h4>
+<p class="text-gray-600">영업과 마케팅의 효과적인 협업 방안을 제시합니다.</p>
+</div>
+<div class="bg-white p-6 rounded-lg shadow-sm">
+<div class="w-8 h-8 flex items-center justify-center bg-primary/10 rounded-full mb-4">
+<i class="ri-shield-star-line text-primary"></i>
+</div>
+<h4 class="text-lg font-semibold mb-2">B2B SMB가 디지털 전환에 살아 남는 '핵심 과제'</h4>
+<p class="text-gray-600">디지털 전환 성공을 위한 핵심 전략을 알아봅니다.</p>
+</div>
+</div>
+</section>
+<section class="mb-16 bg-white rounded-xl shadow-sm p-8">
+<h3 class="text-2xl font-bold mb-8">강사 소개</h3>
+<div class="flex flex-col md:flex-row gap-8 items-start">
+<div class="md:w-1/3">
+<img src="https://static.readdy.ai/image/c6915cb513097bd37a3121e47a3fa61c/f0c7851a036c767bcc1aadf1b1e42370.jpeg"
+alt="정장식 소장"
+class="w-full rounded-lg shadow-md">
+</div>
+<div class="md:w-2/3">
+<h4 class="text-xl font-bold text-primary mb-4">정장식 소장</h4>
+<div class="space-y-2 text-gray-600 text-2xl">
+<p>현) AI콘텐츠연구소 소장</p>
+<p>현) 콘텐츠마케팅연구소 소장</p>
+<p>전) ㈜엑스바디 마케팅연구 소장</p>
+<p>전) ㈜북모아 마케팅 상무</p>
+<p>전) ㈜레디소프트 마케팅 이사</p>
+<p>전) CJ ㈜올리브네트웍스 전략기획팀</p>
+<p>전) POSCO ㈜포스코DX 마케팅팀</p>
+<p class="text-2xl font-semibold text-primary mt-4">33년 마케팅 경력</p>
+</div>
+</div>
+</div>
+</section>
+<section class="mb-16">
+<h3 class="text-2xl font-bold mb-8">웨비나 신청 선물</h3>
+<div class="grid md:grid-cols-2 gap-8">
+<div class="bg-white p-6 rounded-lg shadow-sm">
+<div class="aspect-[3/4] mb-4 overflow-hidden rounded-lg">
+<img src="https://public.readdy.ai/ai/img_res/2f10fb293725bafda0b123b2dc377458.jpg"
+alt="B2B SMB 영업·마케팅 혁신전략"
+class="w-full h-full object-cover">
+</div>
+<h4 class="text-lg font-semibold">《B2B SMB 영업·마케팅 혁신전략》</h4>
+<p class="text-gray-600">작성 17p</p>
+</div>
+<div class="bg-white p-6 rounded-lg shadow-sm">
+<div class="aspect-[3/4] mb-4 overflow-hidden rounded-lg">
+<img src="https://public.readdy.ai/ai/img_res/dfca1809d445dd5daed90b2a9d1db62c.jpg"
+alt="B2B 디지털 마케팅 바이블"
+class="w-full h-full object-cover">
+</div>
+<h4 class="text-lg font-semibold">《B2B 디지털 마케팅 바이블》</h4>
+<p class="text-gray-600">책 요약 124p</p>
+</div>
+</div>
+</section>
+<section class="mb-16">
+<h3 class="text-2xl font-bold mb-8">웨비나 신청하기</h3>
+<div class="bg-white p-6 rounded-lg shadow-sm">
+<div class="form-container">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScRC7zLVOoDlZM-htzEPjOK7kVbi5iWWYEBIAoln8t3TpuLSQ/viewform?embedded=true" width="640" height="1220" frameborder="0" marginheight="0" marginwidth="0">로드 중…</iframe>
+</div>
+</div>
+</section>
+</main>
+<footer class="bg-gray-900 text-white py-12">
+<div class="container mx-auto px-4">
+<div class="grid md:grid-cols-2 gap-8">
+<div>
+<h4 class="text-lg font-bold mb-4">문의사항</h4>
+<div class="space-y-2">
+<p>이메일: contact@aicontents.kr</p>
+<p>전화: 02-1234-5678</p>
+</div>
+</div>
+<div>
+<h4 class="text-lg font-bold mb-4">주최</h4>
+<p>AI콘텐츠연구소</p>
+</div>
+</div>
+<div class="mt-8 pt-8 border-t border-gray-800 text-gray-400 text-sm">
+<p>&copy; 2025 AI콘텐츠연구소. All rights reserved.</p>
+</div>
+</div>
+</footer>
+</body>
+</html>
